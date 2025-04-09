@@ -15,5 +15,3 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'myprojects.settings')
 
 application = get_wsgi_application()
 
-git config --global user.name "qihuaha"
-git config --global user.email "alonehua8@qq.com"
