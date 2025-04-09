@@ -16,3 +16,8 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'myprojects.settings')
 application = get_wsgi_application()
 
 
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/qihuaha/test.git
+git push -u origin master
