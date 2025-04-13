@@ -49,15 +49,9 @@ ml-dtypes==0.4.1
 mpmath==1.3.0
 namex==0.0.8
 networkx==3.4.2
-numpy==2.0.1
-openai==1.58.1
-opencv-python==4.10.0.84
-openpyxl==3.1.5
 opt_einsum==3.4.0
 optree==0.13.1
 packaging==24.1
-pandas==2.2.2
-pillow==10.4.0
 protobuf==5.28.3
 psutil==6.1.1
 py-cpuinfo==9.0.0
